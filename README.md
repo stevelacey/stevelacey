@@ -67,37 +67,37 @@ Here are some notes about me and the way that I work.
 
 <img src="https://c.tenor.com/-mXgZ1VsTfAAAAAM/star-wars-the-mandalorian.gif" align="right" width="260">
 
-- **I want us to be the best:** I want world-class everything all the time, if I've invested my time with you, it's not for us to settle for second place, we don't have to get there today, but that's the end game.
+- **I want us to be the best:** I want world-class everything all the time. If I've invested my time with you, it's not for us to settle for second place, we don't have to get there today, but that's the end game.
 
-- **I am passionate about good developer experiences:** I want to empower the developers around me, and I'll often take on difficult pieces of work in order to raise the bar of the software we're writing.
+- **I am passionate about good developer experiences:** I want to empower the developers around me. I'll often take on difficult pieces of work in order to raise the bar of the software we're writing.
 
 - **I am direct and will get straight to the point:** I say what I think, and sometimes could do it with more tact. I do it because I care about the issue. The issue is the issue; I want us to be successful together.
 
-- **I appreciate direct feedback:** I don't want you to be afraid to tell me what you think, you can tell me anything and I will seriously consider it, and that will help us build a better relationship.
+- **I appreciate direct feedback:** I don't want you to be afraid to tell me what you think. You can tell me anything and I will seriously consider it, and that will help us build a better relationship.
 
-- **Strong opinions, loosely held:** I have opinions, I'm sure you do too, convince me you're right, even when I come in hot, it doesn't mean you can't convince me otherwise, some of my opinions will be thoroughly considered and some of them less.
+- **Strong opinions, loosely held:** I have opinions, I'm sure you do too. Even when I come in hot, it doesn't mean you can't convince me otherwise. Some of my opinions will be thoroughly considered and some of them less.
 
 ### Demotivations
 
 <img src="https://c.tenor.com/EDx6I5vUZPoAAAAd/the-mandalorian-mandalorian.gif" align="right" width="260">
 
-- **I don't care for people who don't care:** I put a lot of thought into things, while I might not expect everyone to match my enthusiasm for an issue, acting like attention to detail is not of value is guaranteed to annoy me.
+- **I don't care for people who don't care:** I put a lot of thought into things. I might not expect everyone to match my enthusiasm for an issue, but acting like attention to detail is not of value is guaranteed to annoy me.
 
-- **I don't deal well with lousy communicators:** I pride myself on good communication skills, which is essential given my work style, so am easily frustrated by individuals who need to be repeatedly chased to get an action or response out of them.
+- **I don't deal well with lousy communicators:** I pride myself on good communication skills, which is essential given my work style. I am easily frustrated by individuals who need to be repeatedly chased to get an action or response out of them.
 
-- **I don't have patience for over-engineering:** I am passionate about finding solutions that are complete, elegant and simple, and struggle to relate to those who insist on overcomplicating, overthinking or prematurely abstracting their designs.
+- **I don't have patience for over-engineering:** I am passionate about finding solutions that are complete, elegant and simple. I struggle to relate to those who insist on overcomplicating, overthinking or prematurely abstracting their designs.
 
 ### Values
 
 <img src="https://c.tenor.com/dh5dpS0KyrMAAAAC/star-wars-the-mandalorian.gif" align="right" width="260">
 
-- **Iteration:** I don't expect everything to be perfect on the first pass, so long as things are moving in the right direction, and the impact of decisions on future works is considered, I am generally happy, and will speak up if not.
+- **Iteration:** I don't expect everything to be perfect on the first pass. So long as things are moving in the right direction, and the impact of decisions on future works are considered, I am generally happy, and will speak up if not.
 
-- **Responsiveness:** I do my best to be as responsive as possible, as if I'm in the same room as you, and while I don't necessarily expect the same in return, if 24 hours pass and I hear nothing, expect frustration.
+- **Responsiveness:** I do my best to be as responsive as possible, as if I'm in the same room as you. I don't necessarily expect the same in return, but if 24 hours pass and I hear nothing, expect frustration.
 
-- **Transparency:** Share your work, early and often, if a draft pull request is not open, I will assume the work does not exist, hiding drafts is guaranteed to result in a lower quality piece that mismatches the brief.
+- **Transparency:** Share your work, early and often. If a draft pull request is not open, I will assume the work does not exist. Hiding drafts is guaranteed to result in a lower quality piece that mismatches the brief.
 
-- **Trust:** I trust you to do your job as I expect you to trust me to do mine, earn more trust by respecting my other values, and being attentive and considered in the way you work.
+- **Trust:** I trust you to do your job and I expect you to trust me to do mine. Earn more trust by respecting my values, and being attentive and considered in the way you work.
 
 
 ## Trivia
