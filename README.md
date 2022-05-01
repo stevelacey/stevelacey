@@ -49,6 +49,8 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 
 ## User manual
 
+Here are some notes about me and the way that I work.
+
 <a href="https://app.gun.io/workstyle/results/6cab485e-0952-420b-98e3-cc29e76a0d94/">
   <img src="https://user-images.githubusercontent.com/289531/166137977-7f8b9eaf-c979-430c-9493-91189300dbd3.png" align="right" width="260">
 </a>
