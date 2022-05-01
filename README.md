@@ -49,7 +49,7 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 
 ## User manual
 
-<a href="https://app.gun.io/workstyle/results/6cab485e-0952-420b-98e3-cc29e76a0d94/" align="right">
+<a href="https://app.gun.io/workstyle/results/6cab485e-0952-420b-98e3-cc29e76a0d94/">
   <img src="https://user-images.githubusercontent.com/289531/166136520-ffc0445c-e9c9-4134-9788-13088f7f0be3.png" align="right" width="200">
 </a>
 
@@ -63,9 +63,11 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 
 ### Motivations
 
-- **I want us to be the best:** I want world-class everything all the time, if I've invested my time with you, it's not for us to settle for second place, we don't have to get there today, or tomorrow, but mediocrity is not an acceptable status quo.
+<img src="https://c.tenor.com/-mXgZ1VsTfAAAAAM/star-wars-the-mandalorian.gif" align="right" width="200">
 
-- **I am a software artisan:** I am passionate about good developer experiences and empowering those around me. I'll often take on difficult pieces of work other's might pass on in order raise the bar of the software we're writing.
+- **I want us to be the best:** I want world-class everything all the time, if I've invested my time with you, it's not for us to settle for second place, we don't have to get there today, but that's the end game.
+
+- **I am passionate about good developer experiences:** I want to empower the developers around me, and I'll often take on difficult pieces of work in order to raise the bar of the software we're writing.
 
 - **I am direct and will get straight to the point:** I say what I think, and sometimes could do it with more tact. I do it because I care about the issue. The issue is the issue; I want us to be successful together.
 
@@ -75,6 +77,8 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 
 ### Demotivations
 
+<img src="https://c.tenor.com/EDx6I5vUZPoAAAAd/the-mandalorian-mandalorian.gif" align="right" width="200">
+
 - **I don't care for people who don't care:** I put a lot of thought into things, while I might not expect everyone to match my enthusiasm for an issue, acting like attention to detail is not of value is guaranteed to annoy me.
 
 - **I don't deal well with lousy communicators:** I pride myself on good communication skills, which is essential given my work style, so am easily frustrated by individuals who need to be repeatedly chased to get an action or response out of them.
@@ -82,6 +86,8 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 - **I don't have patience for over-engineering:** I am passionate about finding solutions that are complete, elegant and simple, and struggle to relate to those who insist on overcomplicating, overthinking or prematurely abstracting their designs.
 
 ### Values
+
+<img src="https://c.tenor.com/dh5dpS0KyrMAAAAC/star-wars-the-mandalorian.gif" align="right" width="200">
 
 - **Iteration:** I don't expect everything to be perfect on the first pass, so long as things are moving in the right direction, and the impact of decisions on future works is considered, I am generally happy, and will speak up if not.
 
