@@ -50,7 +50,7 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 ## User manual
 
 <a href="https://app.gun.io/workstyle/results/6cab485e-0952-420b-98e3-cc29e76a0d94/">
-  <img src="https://user-images.githubusercontent.com/289531/166136520-ffc0445c-e9c9-4134-9788-13088f7f0be3.png" align="right" width="240">
+  <img src="https://user-images.githubusercontent.com/289531/166136520-ffc0445c-e9c9-4134-9788-13088f7f0be3.png" align="right" width="260">
 </a>
 
 ### Work style
@@ -63,7 +63,7 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 
 ### Motivations
 
-<img src="https://c.tenor.com/-mXgZ1VsTfAAAAAM/star-wars-the-mandalorian.gif" align="right" width="240">
+<img src="https://c.tenor.com/-mXgZ1VsTfAAAAAM/star-wars-the-mandalorian.gif" align="right" width="260">
 
 - **I want us to be the best:** I want world-class everything all the time, if I've invested my time with you, it's not for us to settle for second place, we don't have to get there today, but that's the end game.
 
@@ -77,7 +77,7 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 
 ### Demotivations
 
-<img src="https://c.tenor.com/EDx6I5vUZPoAAAAd/the-mandalorian-mandalorian.gif" align="right" width="240">
+<img src="https://c.tenor.com/EDx6I5vUZPoAAAAd/the-mandalorian-mandalorian.gif" align="right" width="260">
 
 - **I don't care for people who don't care:** I put a lot of thought into things, while I might not expect everyone to match my enthusiasm for an issue, acting like attention to detail is not of value is guaranteed to annoy me.
 
@@ -87,7 +87,7 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 
 ### Values
 
-<img src="https://c.tenor.com/dh5dpS0KyrMAAAAC/star-wars-the-mandalorian.gif" align="right" width="240">
+<img src="https://c.tenor.com/dh5dpS0KyrMAAAAC/star-wars-the-mandalorian.gif" align="right" width="260">
 
 - **Iteration:** I don't expect everything to be perfect on the first pass, so long as things are moving in the right direction, and the impact of decisions on future works is considered, I am generally happy, and will speak up if not.
 
