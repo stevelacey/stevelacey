@@ -50,7 +50,7 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 ## User manual
 
 <a href="https://app.gun.io/workstyle/results/6cab485e-0952-420b-98e3-cc29e76a0d94/">
-  <img src="https://user-images.githubusercontent.com/289531/166136520-ffc0445c-e9c9-4134-9788-13088f7f0be3.png" align="right" width="260">
+  <img src="https://user-images.githubusercontent.com/289531/166137977-7f8b9eaf-c979-430c-9493-91189300dbd3.png" align="right" width="260">
 </a>
 
 ### Work style
