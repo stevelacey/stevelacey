@@ -9,42 +9,43 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 
 ## Skills
 
-<a href="https://steve.ly/html5" title="HTML5"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/html5.png" height="32" alt="HTML5"></a>
-<a href="https://steve.ly/css3" title="CSS3"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/css3.png" height="32" alt="CSS3"></a>
-<a href="https://steve.ly/js" title="JavaScript"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/javascript.png" height="32" alt="JavaScript"></a>
-<a href="https://steve.ly/ts" title="TypeScript"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/typescript.png" height="32" alt="TypeScript"></a>
-<a href="https://steve.ly/responsive-design" title="Responsive Design"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/responsive.png" height="32" alt="Responsive Design"></a>
-<a href="https://steve.ly/laravel" title="Laravel"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/laravel.png" height="32" alt="Laravel"></a>
-<a href="https://steve.ly/symfony" title="Symfony"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/symfony.png" height="32" alt="Symfony"></a>
-<a href="https://steve.ly/graphql" title="GraphQL"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/graphql.png" height="32" alt="GraphQL"></a>
-<a href="https://steve.ly/vue" title="Vue.js"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/vue.png" height="32" alt="Vue.js"></a>
-<a href="https://steve.ly/vuetify" title="Vuetify"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/vuetify.png" height="32" alt="Vuetify"></a>
-<a href="https://steve.ly/react" title="React"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/react.png" height="32" alt="React"></a>
-<a href="https://steve.ly/tailwind" title="Tailwind"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/tailwind.png" height="32" alt="Tailwind"></a>
-<a href="https://steve.ly/webpack" title="Webpack"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/webpack.png" height="32" alt="Webpack"></a>
-<a href="https://steve.ly/php" title="PHP"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/php.png" height="32" alt="PHP"></a>
-<a href="https://steve.ly/composer" title="Composer"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/composer.png" height="32" alt="Composer"></a>
-<a href="https://steve.ly/ruby" title="Ruby"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/ruby.png" height="32" alt="Ruby"></a>
-<a href="https://steve.ly/rails" title="Rails"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/rails.png" height="32" alt="Rails"></a>
-<a href="https://steve.ly/python" title="Python"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/python.png" height="32" alt="Python"></a>
-<a href="https://steve.ly/django" title="Django"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/django.png" height="32" alt="Django"></a>
-<a href="https://steve.ly/mysql" title="MySQL"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/mysql.png" height="32" alt="MySQL"></a>
-<a href="https://steve.ly/postgres" title="Postgres"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/postgres.png" height="32" alt="Postgres"></a>
-<a href="https://steve.ly/redis" title="Redis"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/redis.png" height="32" alt="Redis"></a>
-<a href="https://steve.ly/sass" title="SASS"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/sass.png" height="32" alt="SASS"></a>
-<a href="https://steve.ly/elasticsearch" title="Elasticsearch"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/elasticsearch.png" height="32" alt="Elasticsearch"></a>
-<a href="https://steve.ly/git" title="Git"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/git.png" height="32" alt="Git"></a>
-<a href="https://steve.ly/aws" title="AWS"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/amazon-web-services.png" height="32" alt="AWS"></a>
-<a href="https://steve.ly/digitalocean" title="DigitalOcean"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/digitalocean.png" height="32" alt="DigitalOcean"></a>
-<a href="https://steve.ly/linode" title="Linode"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/linode.png" height="32" alt="Linode"></a>
-<a href="https://steve.ly/nginx" title="Nginx"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/nginx.png" height="32" alt="Nginx"></a>
-<a href="https://steve.ly/varnish" title="Varnish"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/varnish.png" height="32" alt="Varnish"></a>
-<a href="https://steve.ly/github" title="GitHub"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/github.png" height="32" alt="GitHub"></a>
-<a href="https://steve.ly/docker" title="Docker"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/docker.png" height="32" alt="Docker"></a>
-<a href="https://steve.ly/vagrant" title="Vagrant"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/vagrant.png" height="32" alt="Vagrant"></a>
-<a href="https://steve.ly/heroku" title="Heroku"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/heroku.png" height="32" alt="Heroku"></a>
-<a href="https://steve.ly/netlify" title="Netlify"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/netlify.png" height="32" alt="Netlify"></a>
-<a href="https://steve.ly/ubuntu" title="Ubuntu"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/ubuntu.png" height="32" alt="Ubuntu"></a>
+<a href="https://steve.ly/html5" title="HTML5"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/html5.png" height="40" alt="HTML5"></a>
+<a href="https://steve.ly/css3" title="CSS3"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/css3.png" height="40" alt="CSS3"></a>
+<a href="https://steve.ly/js" title="JavaScript"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/javascript.png" height="40" alt="JavaScript"></a>
+<a href="https://steve.ly/ts" title="TypeScript"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/typescript.png" height="40" alt="TypeScript"></a>
+<a href="https://steve.ly/responsive-design" title="Responsive Design"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/responsive.png" height="40" alt="Responsive Design"></a>
+<a href="https://steve.ly/laravel" title="Laravel"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/laravel.png" height="40" alt="Laravel"></a>
+<a href="https://steve.ly/symfony" title="Symfony"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/symfony.png" height="40" alt="Symfony"></a>
+<a href="https://steve.ly/graphql" title="GraphQL"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/graphql.png" height="40" alt="GraphQL"></a>
+<a href="https://steve.ly/vue" title="Vue.js"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/vue.png" height="40" alt="Vue.js"></a>
+<a href="https://steve.ly/vuetify" title="Vuetify"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/vuetify.png" height="40" alt="Vuetify"></a>
+<a href="https://steve.ly/react" title="React"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/react.png" height="40" alt="React"></a>
+<a href="https://steve.ly/tailwind" title="Tailwind"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/tailwind.png" height="40" alt="Tailwind"></a>
+<a href="https://steve.ly/webpack" title="Webpack"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/webpack.png" height="40" alt="Webpack"></a>
+<a href="https://steve.ly/php" title="PHP"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/php.png" height="40" alt="PHP"></a>
+<a href="https://steve.ly/composer" title="Composer"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/composer.png" height="40" alt="Composer"></a>
+<a href="https://steve.ly/ruby" title="Ruby"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/ruby.png" height="40" alt="Ruby"></a>
+<a href="https://steve.ly/rails" title="Rails"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/rails.png" height="40" alt="Rails"></a>
+<a href="https://steve.ly/python" title="Python"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/python.png" height="40" alt="Python"></a>
+<a href="https://steve.ly/django" title="Django"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/django.png" height="40" alt="Django"></a>
+<a href="https://steve.ly/mysql" title="MySQL"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/mysql.png" height="40" alt="MySQL"></a>
+<a href="https://steve.ly/postgres" title="Postgres"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/postgres.png" height="40" alt="Postgres"></a>
+<a href="https://steve.ly/redis" title="Redis"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/redis.png" height="40" alt="Redis"></a>
+<a href="https://steve.ly/sass" title="SASS"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/sass.png" height="40" alt="SASS"></a>
+<a href="https://steve.ly/elasticsearch" title="Elasticsearch"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/elasticsearch.png" height="40" alt="Elasticsearch"></a>
+<a href="https://steve.ly/git" title="Git"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/git.png" height="40" alt="Git"></a>
+<a href="https://steve.ly/aws" title="AWS"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/amazon-web-services.png" height="40" alt="AWS"></a>
+<a href="https://steve.ly/digitalocean" title="DigitalOcean"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/digitalocean.png" height="40" alt="DigitalOcean"></a>
+<a href="https://steve.ly/linode" title="Linode"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/linode.png" height="40" alt="Linode"></a>
+<a href="https://steve.ly/nginx" title="Nginx"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/nginx.png" height="40" alt="Nginx"></a>
+<a href="https://steve.ly/varnish" title="Varnish"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/varnish.png" height="40" alt="Varnish"></a>
+<a href="https://steve.ly/github" title="GitHub"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/github.png" height="40" alt="GitHub"></a>
+<a href="https://steve.ly/docker" title="Docker"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/docker.png" height="40" alt="Docker"></a>
+<a href="https://steve.ly/vagrant" title="Vagrant"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/vagrant.png" height="40" alt="Vagrant"></a>
+<a href="https://steve.ly/heroku" title="Heroku"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/heroku.png" height="40" alt="Heroku"></a>
+<a href="https://steve.ly/netlify" title="Netlify"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/netlify.png" height="40" alt="Netlify"></a>
+<a href="https://steve.ly/ubuntu" title="Ubuntu"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/ubuntu.png" height="40" alt="Ubuntu"></a>
+
 
 ## User manual
 
