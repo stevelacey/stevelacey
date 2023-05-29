@@ -1,6 +1,6 @@
 # Hey, I’m Steve 👋
 
-I'm a Software Engineer with 15+ years experience writing PHP, Ruby & Python. I specialize in building web apps using frameworks like Laravel, Rails, React and Vue.js.
+I'm a Software Engineer with 15+ years experience writing Python, PHP & Ruby. I specialize in building web apps using frameworks like Laravel, Django, React and Vue.js.
 
 I work remotely with teams to build appropriate, elegant and reliable solutions to complex problems – helping global companies, start-ups and web agencies reach business goals with technology, on-budget, on-time.
 
@@ -13,21 +13,17 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 <a href="https://steve.ly/css3" title="CSS3"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/css3.png" height="40" alt="CSS3"></a>
 <a href="https://steve.ly/js" title="JavaScript"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/javascript.png" height="40" alt="JavaScript"></a>
 <a href="https://steve.ly/ts" title="TypeScript"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/typescript.png" height="40" alt="TypeScript"></a>
-<a href="https://steve.ly/responsive-design" title="Responsive Design"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/responsive.png" height="40" alt="Responsive Design"></a>
 <a href="https://steve.ly/laravel" title="Laravel"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/laravel.png" height="40" alt="Laravel"></a>
+<a href="https://steve.ly/django" title="Django"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/django.png" height="40" alt="Django"></a>
 <a href="https://steve.ly/symfony" title="Symfony"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/symfony.png" height="40" alt="Symfony"></a>
-<a href="https://steve.ly/graphql" title="GraphQL"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/graphql.png" height="40" alt="GraphQL"></a>
+<a href="https://steve.ly/rails" title="Rails"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/rails.png" height="40" alt="Rails"></a>
 <a href="https://steve.ly/vue" title="Vue.js"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/vue.png" height="40" alt="Vue.js"></a>
-<a href="https://steve.ly/vuetify" title="Vuetify"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/vuetify.png" height="40" alt="Vuetify"></a>
 <a href="https://steve.ly/react" title="React"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/react.png" height="40" alt="React"></a>
 <a href="https://steve.ly/tailwind" title="Tailwind"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/tailwind.png" height="40" alt="Tailwind"></a>
-<a href="https://steve.ly/webpack" title="Webpack"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/webpack.png" height="40" alt="Webpack"></a>
+<a href="https://steve.ly/graphql" title="GraphQL"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/graphql.png" height="40" alt="GraphQL"></a>
 <a href="https://steve.ly/php" title="PHP"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/php.png" height="40" alt="PHP"></a>
-<a href="https://steve.ly/composer" title="Composer"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/composer.png" height="40" alt="Composer"></a>
-<a href="https://steve.ly/ruby" title="Ruby"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/ruby.png" height="40" alt="Ruby"></a>
-<a href="https://steve.ly/rails" title="Rails"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/rails.png" height="40" alt="Rails"></a>
 <a href="https://steve.ly/python" title="Python"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/python.png" height="40" alt="Python"></a>
-<a href="https://steve.ly/django" title="Django"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/django.png" height="40" alt="Django"></a>
+<a href="https://steve.ly/ruby" title="Ruby"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/ruby.png" height="40" alt="Ruby"></a>
 <a href="https://steve.ly/mysql" title="MySQL"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/mysql.png" height="40" alt="MySQL"></a>
 <a href="https://steve.ly/postgres" title="Postgres"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/postgres.png" height="40" alt="Postgres"></a>
 <a href="https://steve.ly/redis" title="Redis"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/redis.png" height="40" alt="Redis"></a>
@@ -38,9 +34,10 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 <a href="https://steve.ly/digitalocean" title="DigitalOcean"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/digitalocean.png" height="40" alt="DigitalOcean"></a>
 <a href="https://steve.ly/linode" title="Linode"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/linode.png" height="40" alt="Linode"></a>
 <a href="https://steve.ly/nginx" title="Nginx"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/nginx.png" height="40" alt="Nginx"></a>
-<a href="https://steve.ly/varnish" title="Varnish"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/varnish.png" height="40" alt="Varnish"></a>
-<a href="https://steve.ly/github" title="GitHub"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/github.png" height="40" alt="GitHub"></a>
+<a href="https://steve.ly/github" title="GitHub"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/github.svg" height="40" alt="GitHub"></a>
+<a href="https://steve.ly/github-actions" title="GitHub Actions"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/github-actions.png" height="40" alt="GitHub Actions"></a>
 <a href="https://steve.ly/docker" title="Docker"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/docker.png" height="40" alt="Docker"></a>
+<a href="https://steve.ly/traefik" title="Traefik"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/traefik.png" height="40" alt="Traefik"></a>
 <a href="https://steve.ly/vagrant" title="Vagrant"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/vagrant.png" height="40" alt="Vagrant"></a>
 <a href="https://steve.ly/heroku" title="Heroku"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/heroku.png" height="40" alt="Heroku"></a>
 <a href="https://steve.ly/netlify" title="Netlify"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/netlify.png" height="40" alt="Netlify"></a>
