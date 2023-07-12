@@ -1,10 +1,10 @@
 # Hey, I’m Steve 👋
 
-I'm a Software Engineer with 15+ years experience writing Python, PHP & Ruby. I specialize in building web apps using frameworks like Laravel, Django, React and Vue.js.
+I am a Senior Software Engineer and Technical Lead with 20 years of experience writing Python, PHP, and Ruby. I specialize in building web apps using frameworks like Laravel, Django, React, and Vue.js.
 
-I work remotely with teams to build appropriate, elegant and reliable solutions to complex problems – helping global companies, start-ups and web agencies reach business goals with technology, on-budget, on-time.
+I work remotely with teams to build appropriate, elegant and reliable solutions to complex problems; helping global companies, startups and web agencies reach business goals with technology, on-budget, on-time.
 
-If you’re interested in hiring me [check out my website](https://steve.ly) and [drop me a line](https://twitter.com/stevelacey).
+If you’re interested in hiring me [check out my website](https://steve.ly) and [send me a message](https://twitter.com/stevelacey).
 
 
 ## Skills
