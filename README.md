@@ -4,7 +4,7 @@ I am a Senior Software Engineer and Technical Lead with 20 years of experience w
 
 I work remotely with teams to build appropriate, elegant and reliable solutions to complex problems; helping global companies, startups and web agencies reach business goals with technology, on-budget, on-time.
 
-If you’re interested in hiring me [check out my website](https://steve.ly) and [send me a message](https://twitter.com/stevelacey).
+If you’re interested in hiring me [check out my website](https://steve.ly) and [send me a message](mailto:steve@github.steve.ly).
 
 
 ## Skills
