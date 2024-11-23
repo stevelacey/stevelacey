@@ -6,7 +6,6 @@ I work remotely with teams to build appropriate, elegant and reliable solutions 
 
 If you’re interested in hiring me [check out my website](https://steve.ly) and [send me a message](mailto:steve@github.steve.ly).
 
-
 ## Skills
 
 <a href="https://steve.ly/html5" title="HTML5"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/html5.png" height="40" alt="HTML5"></a>
@@ -43,6 +42,19 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 <a href="https://steve.ly/netlify" title="Netlify"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/netlify.png" height="40" alt="Netlify"></a>
 <a href="https://steve.ly/ubuntu" title="Ubuntu"><img src="https://steve.ly/images/fit/64/64/sm/storage/skills/ubuntu.png" height="40" alt="Ubuntu"></a>
 
+## Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-steve.vercel.app/api/?username=stevelacey&hide=contribs&hide_title=true&show=prs_merged_percentage&border_color=3d444db3&show_icons=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-steve.vercel.app/api/?username=stevelacey&hide=contribs&hide_title=true&show=prs_merged_percentage&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-steve.vercel.app/api/?username=stevelacey&hide=contribs&show=prs_merged_percentage&show_icons=true">
+</picture>
 
 ## User manual
 
