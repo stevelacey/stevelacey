@@ -2,7 +2,7 @@
 
 I am a Senior Software Engineer and Technical Lead with 20 years of experience writing Python, PHP, and Ruby. I specialize in building web apps using frameworks like Laravel, Django, React, and Vue.js.
 
-I work remotely with teams to build appropriate, elegant and reliable solutions to complex problems; helping global companies, startups and web agencies reach business goals with technology, on-budget, on-time.
+I work remotely with teams to build appropriate, elegant and reliable solutions to complex problems; helping startups and global companies reach business goals with technology, on-budget, on-time.
 
 If you’re interested in hiring me [check out my website](https://steve.ly) and [send me a message](mailto:steve@github.steve.ly).
 
