@@ -61,7 +61,10 @@ If you’re interested in hiring me [check out my website](https://steve.ly) and
 Here are some notes about me and the way that I work.
 
 <a href="https://app.gun.io/workstyle/results/6cab485e-0952-420b-98e3-cc29e76a0d94/">
-  <img src="https://user-images.githubusercontent.com/289531/166137977-7f8b9eaf-c979-430c-9493-91189300dbd3.png" align="right" width="260">
+  <picture>
+    <source media="(max-width: 767px)" srcset="https://wsrv.nl/?url=user-images.githubusercontent.com/289531/166137977-7f8b9eaf-c979-430c-9493-91189300dbd3.png&w=130">
+    <img src="https://wsrv.nl/?url=user-images.githubusercontent.com/289531/166137977-7f8b9eaf-c979-430c-9493-91189300dbd3.png&w=260" align="right">
+  </picture>
 </a>
 
 ### Work style
@@ -74,7 +77,10 @@ Here are some notes about me and the way that I work.
 
 ### Motivations
 
-<img src="https://c.tenor.com/-mXgZ1VsTfAAAAAM/star-wars-the-mandalorian.gif" align="right" width="260">
+<picture>
+  <source media="(max-width: 767px)" srcset="https://wsrv.nl/?url=c.tenor.com/-mXgZ1VsTfAAAAAM/star-wars-the-mandalorian.gif&n=-1&w=130">
+  <img src="https://wsrv.nl/?url=c.tenor.com/-mXgZ1VsTfAAAAAM/star-wars-the-mandalorian.gif&n=-1&w=260" align="right">
+</picture>
 
 - **I want us to be the best:** I want world-class everything all the time. If I've invested my time with you, it's not for us to settle for second place, we don't have to get there today, but that's the end game.
 
@@ -88,7 +94,10 @@ Here are some notes about me and the way that I work.
 
 ### Demotivations
 
-<img src="https://c.tenor.com/EDx6I5vUZPoAAAAd/the-mandalorian-mandalorian.gif" align="right" width="260">
+<picture>
+  <source media="(max-width: 767px)" srcset="https://wsrv.nl/?url=c.tenor.com/EDx6I5vUZPoAAAAd/the-mandalorian-mandalorian.gif&n=-1&w=130">
+  <img src="https://wsrv.nl/?url=c.tenor.com/EDx6I5vUZPoAAAAd/the-mandalorian-mandalorian.gif&n=-1&w=260" align="right">
+</picture>
 
 - **Not caring about the details:** I put a lot of thought into things. I don't expect everyone to share my enthusiasm for every issue, but treating attention to detail as unimportant wears me down.
 
@@ -98,7 +107,10 @@ Here are some notes about me and the way that I work.
 
 ### Values
 
-<img src="https://c.tenor.com/dh5dpS0KyrMAAAAC/star-wars-the-mandalorian.gif" align="right" width="260">
+<picture>
+  <source media="(max-width: 767px)" srcset="https://wsrv.nl/?url=c.tenor.com/dh5dpS0KyrMAAAAC/star-wars-the-mandalorian.gif&n=-1&w=130">
+  <img src="https://wsrv.nl/?url=c.tenor.com/dh5dpS0KyrMAAAAC/star-wars-the-mandalorian.gif&n=-1&w=260" align="right">
+</picture>
 
 - **Iteration:** I don't expect everything to be perfect on the first pass. So long as things are moving in the right direction, and the impact of decisions on future works are considered, I am generally happy, and will speak up if not.
 
