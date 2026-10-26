@@ -67,7 +67,7 @@ Here are some notes about me and the way that I work.
 ### Work style
 
 1. I work fully remote, often from coffee shops, usually in South East Asia
-2. I do my best work on my own schedule, I don't work core hours
+2. I do my best work on my own schedule rather than fixed core hours
 3. I make time for goal-specific meetings when I feel they add value
 4. I prefer written communication and working asynchronously
 5. I am online most of the time and will reply on Slack outside of office hours
@@ -80,7 +80,7 @@ Here are some notes about me and the way that I work.
 
 - **I am passionate about good developer experiences:** I want to empower the developers around me. I'll often take on difficult pieces of work in order to raise the bar of the software we're writing.
 
-- **I am direct and will get straight to the point:** I say what I think, and sometimes could do it with more tact. I do it because I care about the issue. The issue is the issue; I want us to be successful together.
+- **I am direct and will get straight to the point:** I say what I think because I care about getting it right, and I'm always working on saying it well. It's never personal: the issue is the issue, and I want us to be successful together.
 
 - **I appreciate direct feedback:** I don't want you to be afraid to tell me what you think. You can tell me anything and I will seriously consider it, and that will help us build a better relationship.
 
@@ -90,11 +90,11 @@ Here are some notes about me and the way that I work.
 
 <img src="https://c.tenor.com/EDx6I5vUZPoAAAAd/the-mandalorian-mandalorian.gif" align="right" width="260">
 
-- **I don't care for people who don't care:** I put a lot of thought into things. I might not expect everyone to match my enthusiasm for an issue, but acting like attention to detail is not of value is guaranteed to annoy me.
+- **Not caring about the details:** I put a lot of thought into things. I don't expect everyone to share my enthusiasm for every issue, but treating attention to detail as unimportant wears me down.
 
-- **I don't deal well with lousy communicators:** I pride myself on good communication skills, which is essential given my work style. I am easily frustrated by individuals who need to be repeatedly chased to get an action or response out of them.
+- **Having to chase for replies:** Good communication is essential to the way I work, and I put a lot into it. I find it hard when I need to follow up repeatedly to get an action or a response.
 
-- **I don't have patience for over-engineering:** I am passionate about finding solutions that are complete, elegant and simple. I struggle to relate to those who insist on overcomplicating, overthinking or prematurely abstracting their designs.
+- **Over-engineering:** I am passionate about finding solutions that are complete, elegant and simple. I find it hard to get behind designs that are overcomplicated, overthought or abstracted too early.
 
 ### Values
 
@@ -102,11 +102,11 @@ Here are some notes about me and the way that I work.
 
 - **Iteration:** I don't expect everything to be perfect on the first pass. So long as things are moving in the right direction, and the impact of decisions on future works are considered, I am generally happy, and will speak up if not.
 
-- **Responsiveness:** I do my best to be as responsive as possible, as if I'm in the same room as you. I don't necessarily expect the same in return, but if 24 hours pass and I hear nothing, expect frustration.
+- **Responsiveness:** I do my best to be as responsive as possible, as if I'm in the same room as you. I don't expect the same in return, but if a day goes by without a reply, I'll follow up.
 
-- **Transparency:** Share your work, early and often. If a draft pull request is not open, I will assume the work does not exist. Hiding drafts is guaranteed to result in a lower quality piece that mismatches the brief.
+- **Transparency:** Share your work, early and often. I'd much rather see a rough draft pull request than a polished surprise; early drafts let us catch mismatches with the brief while they're cheap to fix.
 
-- **Trust:** I trust you to do your job and I expect you to trust me to do mine. Earn more trust by respecting my values, and being attentive and considered in the way you work.
+- **Trust:** I trust you to do your job and I hope you'll trust me to do mine. That trust grows when we're both attentive and considered in the way we work.
 
 
 ## Trivia
